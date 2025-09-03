@@ -1,0 +1,14 @@
+{
+  "name": "linea-allocation-checker",
+  "version": "1.0.0",
+  "description": "Проверка аллокаций токенов Linea",
+  "main": "checker.js",
+  "scripts": {
+    "start": "node checker.js"
+  },
+  "dependencies": {
+    "ethers": "^6.8.1",
+    "fs": "^0.0.1-security"
+  },
+  "type": "module"
+}
